@@ -1,4 +1,4 @@
-@import url("https://fonts.googleapis.com/css2?family=Comic+Neue:ital,wght@1,700&display=swap");
+@import url("https://fonts.googleapis.com/css?family=Tangerine,wght@1,700&display=swap");
 
 :root {
   --primary-color: #fcd34d;
@@ -15,12 +15,12 @@ main {
 }
 
 #bg-img {
-  background-image: url("/images/bg-img.jpg");
+  background-image: url("images/mini.png");
   background-size: 300px;
 }
 
 body {
-  font-family: "Comic Neue", cursive;
+  font-family: "Tangerine", serif;
   margin: 0px;
 }
 
@@ -62,7 +62,7 @@ textarea {
   padding: 1rem 2rem;
   margin: 1rem 0rem;
   border: none;
-  font-family: "Comic Neue", cursive;
+  font-family: "Tangerine", serif;
   font-size: large;
 }
 
